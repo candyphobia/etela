@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1.08017,5.89782,-7.27184)">
+        <path d="M381.372,99.549C381.372,60.111 346.787,28.092 304.187,28.092L91.887,28.092C49.288,28.092 14.702,60.111 14.702,99.549C14.702,138.987 49.288,171.005 91.887,171.005L304.187,171.005C346.787,171.005 381.372,138.987 381.372,99.549Z" style="fill:rgb(230,184,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-26.4994,-21.3393)">
+        <g>
+            <text x="71.14px" y="107.256px" style="font-family:'CutiveMono-Regular', 'Cutive Mono';font-size:60px;fill:rgb(0,0,139);">t<tspan x="110.468px 149.796px 189.124px 228.452px 267.78px 307.109px 346.437px " y="107.256px 107.256px 107.256px 107.256px 107.256px 107.256px 107.256px ">wo more</tspan></text>
+            <text x="74.14px" y="155.256px" style="font-family:'CutiveMono-Regular', 'Cutive Mono';font-size:60px;fill:rgb(0,0,139);"><tspan x="74.14px 113.468px 152.796px 192.124px 231.452px 270.78px 310.109px 349.437px " y="155.256px 155.256px 155.256px 155.256px 155.256px 155.256px 155.256px 155.256px ">minutes?</tspan></text>
+        </g>
+    </g>
+</svg>

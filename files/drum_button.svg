@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-4.74054,-7.57492)">
+        <circle cx="105.873" cy="110.072" r="74.688" style="fill:rgb(230,184,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-26.491,-3.57484)">
+        <g>
+            <text x="26.849px" y="124.571px" style="font-family:'CutiveMono-Regular', 'Cutive Mono';font-size:90px;fill:rgb(0,0,139);">d</text>
+            <text x="75.041px" y="124.571px" style="font-family:'CutiveMono-Regular', 'Cutive Mono';font-size:90px;fill:rgb(0,0,139);">r</text>
+            <text x="120.533px" y="124.571px" style="font-family:'CutiveMono-Regular', 'Cutive Mono';font-size:90px;fill:rgb(0,0,139);">u<tspan x="171.425px " y="124.571px ">m</tspan></text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+
+body {
+    font-family: "Cutive Mono";
+}
+
+#info{
+    margin: 60px;
+    color: darkblue;
+}
+
+h1{
+    font-weight: normal;
+}
+
+h2{
+    font-weight: normal;
+}
+
+#canvasContainer {
+    background-color: cornsilk;
+    color: darkblue;
+    font-family: 'Cutive Mono', monospace;
+    text-align: center;
+    height: 100%;
+}
+.linkbutt{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#valikko {
+    margin: 40px;
+    background-color: cornsilk;
+    color: white;
+}
+
+#kissahousu {
+    margin: 0;
+    cursor: none;
+}
+#merihousu{
+    margin: 0;
+    cursor: pointer;
+}
+#drumhousu{
+    margin: 0;
+    cursor: none;
+}
+
+.button:hover {
+    cursor: pointer;
+}
