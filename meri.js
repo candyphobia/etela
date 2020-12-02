@@ -1,6 +1,6 @@
 let meri;
 let hiekka;
-let timer = 20;
+let timer = 120;
 let countDownSwitch = false;
 let seasound;
 let notification;

@@ -1,4 +1,4 @@
-let timer = 20;
+let timer = 120;
 let drumMiddle;
 let drumRim;
 let notification;

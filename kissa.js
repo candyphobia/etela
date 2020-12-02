@@ -1,7 +1,7 @@
 let kissa1;
 let kissa2;
 let kissa3;
-let timer = 20;
+let timer = 120;
 let notification;
 let purr;
 let notificationPlayed = false;
